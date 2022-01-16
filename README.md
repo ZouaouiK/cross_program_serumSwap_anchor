@@ -12,8 +12,8 @@ npm i
 node client.js
 
 ## version anchor and solana 
-anchor="0.17.0"
-solana="0.17.0"
+anchor="0.19.0"
+solana="0.19.0"
 
 ## Get keypair 
 solana address -k PATH_KEYPAIR.json
